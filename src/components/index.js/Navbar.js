@@ -3,7 +3,7 @@ function Navbar() {
     return (
         <>
             {/*navbar start*/}
-            <div className='navbar h-16 w-full z-10 bg-nav-white drop-shadow-3xl items-center flex justify-between px-10'>
+            <div className='navbar h-16 w-full z-20 bg-nav-white drop-shadow-3xl items-center flex justify-between px-10'>
                 {/* logo wrapper start */}
                 <div className='logo-wrapper'>
                     <p className="logo text-lg italic font-black">demo</p>
